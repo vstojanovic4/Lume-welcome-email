@@ -2,6 +2,8 @@
 
 Responsive HTML email template built for a fashion e-commerce brand.
 
+![Preview](preview.png)
+
 ## Details
 - Table-based HTML structure
 - Compatible with Gmail, Outlook, and Apple Mail
